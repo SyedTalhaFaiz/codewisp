@@ -7,6 +7,9 @@ const inter = Inter({
   display: 'swap',
 });
 
+
+//////////////////////
+
 export const metadata: Metadata = {
   title: "CodeWisp - Professional IT Solutions & Software Development",
   description: "Transform your business with cutting-edge technology solutions. We specialize in AI transformation, data analytics, cloud services, and comprehensive digital solutions for enterprise success.",
